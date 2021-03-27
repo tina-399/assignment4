@@ -1,0 +1,16 @@
+.about {
+  /* background-color: violet; */
+  padding: 0%;
+  height: 40rem;
+  background-image: url(../styles/victor-kwashie-Y4pOiQRJey8-unsplash.jpg);
+  background-size: cover;
+}
+
+.break{
+    background-image: url(../styles/kevwe-eru-e6k8RrfbJ2A-unsplash.jpg);
+    padding: 0%;
+    width: 100%;
+    height: 40rem;
+    background-size: cover;
+    background-position: center;
+}

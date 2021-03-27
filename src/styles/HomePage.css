@@ -1,0 +1,7 @@
+.home {
+    background-image: url(./image3.jpg);
+    padding: 0%;
+    height: 40rem;
+    background-size: cover;
+    background-position: top;
+}
